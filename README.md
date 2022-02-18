@@ -12,5 +12,5 @@ The job's goal is to calculate for each store the total of selling it made
 
 ## Next step
 As a next steps to improve the code:
-* Finding a better way to filter the needed data for The map function
+* Finding a better way to filter the needed data for The map function (done !!)
 * Making the job able to filter the data by date
